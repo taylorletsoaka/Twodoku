@@ -32,4 +32,4 @@ mode = 2 (single player GUI mode)
 
 Single Player GUI Mode
 ========
-[GUI](https://github.com/taylorletsoaka/Twodoku/blob/master/src/twodoku.PNG)
+![GUI](https://github.com/taylorletsoaka/Twodoku/blob/master/src/twodoku.PNG)
