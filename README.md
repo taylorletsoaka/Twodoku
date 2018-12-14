@@ -23,7 +23,9 @@ To compile the entire project,
 where:
 
 mode = 0 (single player text mode)
+
 mode = 1 (multiplayer text mode)
+
 mode = 2 (single player GUI mode)
       
 ```e.g java Twodoku 2 2 2```
