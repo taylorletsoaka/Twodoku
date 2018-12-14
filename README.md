@@ -29,3 +29,7 @@ mode = 1 (multiplayer text mode)
 mode = 2 (single player GUI mode)
       
 ```e.g java Twodoku 2 2 2```
+
+Single Player GUI Mode
+========
+[GUI](https://github.com/taylorletsoaka/Twodoku/blob/master/src/twodoku.PNG)
